@@ -2,4 +2,8 @@ This is my first change
 This is the second change
 This is the third change
 This is the fourth change
+<<<<<<< HEAD
 edited on my laptop
+=======
+...editing in hit hub
+>>>>>>> 96a0d70e5975e1683bc10460b1a52d691dcceb7a
